@@ -1,4 +1,4 @@
-# Apache Spark packaged by Bitnami
+# Apache Spark packaged 
 
 ## What is Apache Spark?
 
